@@ -1,2 +1,8 @@
 # codec
-audio codec, support wav. ogg, opus, speex, sbc, mp3, etc.
+- wav
+- opus+ogg
+- speex+ogg
+- sbc
+- aac
+- vorbis+ogg
+- mp3
